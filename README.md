@@ -1,0 +1,2 @@
+# latex-apriori-project
+PROYECTO FINAL MACHINE LEARNING 4GEEKS
